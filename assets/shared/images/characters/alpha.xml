@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECOVER_alpha.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alpha DOWN0000" x="0" y="0" width="467" height="485" frameX="-5" frameY="-4" frameWidth="472" frameHeight="490"/>
+	<SubTexture name="alpha DOWN0001" x="467" y="0" width="467" height="490" frameX="-5" frameY="0" frameWidth="472" frameHeight="490"/>
+	<SubTexture name="alpha DOWN0002" x="934" y="0" width="472" height="490"/>
+	<SubTexture name="alpha DOWN0003" x="1406" y="0" width="463" height="490" frameX="0" frameY="0" frameWidth="472" frameHeight="490"/>
+	<SubTexture name="alpha DOWN0004" x="1869" y="0" width="467" height="490" frameX="0" frameY="0" frameWidth="472" frameHeight="490"/>
+	<SubTexture name="alpha IDLE0000" x="2336" y="0" width="488" height="575" frameX="0" frameY="-10" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0001" x="2336" y="0" width="488" height="575" frameX="0" frameY="-10" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0002" x="2824" y="0" width="488" height="576" frameX="0" frameY="-9" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0003" x="3312" y="0" width="488" height="576" frameX="0" frameY="-9" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0004" x="0" y="576" width="492" height="581" frameX="0" frameY="-4" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0005" x="492" y="576" width="492" height="581" frameX="0" frameY="-4" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0006" x="984" y="576" width="492" height="581" frameX="0" frameY="-4" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0007" x="1476" y="576" width="494" height="584" frameX="0" frameY="-1" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0008" x="1970" y="576" width="494" height="584" frameX="0" frameY="-1" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0009" x="2464" y="576" width="488" height="584" frameX="-1" frameY="-1" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0010" x="2952" y="576" width="488" height="585" frameX="-1" frameY="0" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0011" x="3440" y="576" width="488" height="585" frameX="-1" frameY="0" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0012" x="0" y="1161" width="482" height="585" frameX="-1" frameY="0" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha IDLE0013" x="482" y="1161" width="482" height="585" frameX="-1" frameY="0" frameWidth="494" frameHeight="585"/>
+	<SubTexture name="alpha LEFT0000" x="964" y="1161" width="485" height="548" frameX="-6" frameY="-11" frameWidth="498" frameHeight="559"/>
+	<SubTexture name="alpha LEFT0001" x="1449" y="1161" width="491" height="553" frameX="-3" frameY="-6" frameWidth="498" frameHeight="559"/>
+	<SubTexture name="alpha LEFT0002" x="1940" y="1161" width="491" height="553" frameX="-3" frameY="-6" frameWidth="498" frameHeight="559"/>
+	<SubTexture name="alpha LEFT0003" x="2431" y="1161" width="491" height="553" frameX="-3" frameY="-6" frameWidth="498" frameHeight="559"/>
+	<SubTexture name="alpha LEFT0004" x="2922" y="1161" width="498" height="559"/>
+	<SubTexture name="alpha RIGHT0000" x="3420" y="1161" width="485" height="556" frameX="-6" frameY="-6" frameWidth="498" frameHeight="562"/>
+	<SubTexture name="alpha RIGHT0001" x="0" y="1746" width="491" height="556" frameX="-3" frameY="-6" frameWidth="498" frameHeight="562"/>
+	<SubTexture name="alpha RIGHT0002" x="491" y="1746" width="491" height="560" frameX="-3" frameY="-2" frameWidth="498" frameHeight="562"/>
+	<SubTexture name="alpha RIGHT0003" x="982" y="1746" width="491" height="560" frameX="-3" frameY="-2" frameWidth="498" frameHeight="562"/>
+	<SubTexture name="alpha RIGHT0004" x="1473" y="1746" width="498" height="562"/>
+	<SubTexture name="alpha UP0000" x="1971" y="1746" width="533" height="658" frameX="-10" frameY="-5" frameWidth="543" frameHeight="663"/>
+	<SubTexture name="alpha UP0001" x="2504" y="1746" width="533" height="661" frameX="-10" frameY="-2" frameWidth="543" frameHeight="663"/>
+	<SubTexture name="alpha UP0002" x="3037" y="1746" width="543" height="661" frameX="0" frameY="-2" frameWidth="543" frameHeight="663"/>
+	<SubTexture name="alpha UP0003" x="0" y="2407" width="543" height="663"/>
+	<SubTexture name="alpha UP0004" x="543" y="2407" width="543" height="663"/>
+</TextureAtlas>
